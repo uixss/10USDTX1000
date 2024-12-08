@@ -12,10 +12,10 @@
     
 ### 📈 Flujos de Dinero y Altseason
     
-    - **Fase 1: Bitcoin**
-    - **Fase 2: Ethereum**
-    - **Fase 3: Grandes Capitalizaciones**
-    - **Fase 4: Altseason**
+    - Fase 1: Bitcoin
+    - Fase 2: Ethereum
+    - Fase 3: Grandes Capitalizaciones
+    - Fase 4: Altseason
 
 ### 🛡️ Protección en Caídas del Mercado
     - La clave es proteger el capital 
