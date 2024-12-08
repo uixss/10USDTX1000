@@ -214,11 +214,13 @@ Para detectar zonas de venta en una tendencia alcista:
 - Traza el **Fibonacci** desde el máximo hasta el mínimo de la corrección (línea de puntos).
 - Configura el nivel **1.618** de Fibonacci en los ajustes.
 
+<img src="./img/fibo/1.png" alt="ig" style="display: block; margin: 0 auto;">
+
 **Ejemplos:**
 - **Zona actual** (temporalidad baja).
 - **Rango previo a la ruptura**.
 
-<img src="./img/fibo/1.png" alt="ig" style="display: block; margin: 0 auto;">
+<img src="./img/fibo/2.png" alt="ig" style="display: block; margin: 0 auto;">
 
 ---
 
@@ -232,7 +234,8 @@ Para detectar zonas de compra durante una corrección alcista:
 **Nota:**  
 Normalmente el precio reaccionará en la zona entre **0.5** y **0.618** en el retroceso durante una tendencia alcista.
 
-<img src="./img/fibo/2.png" alt="ig" style="display: block; margin: 0 auto;">
+<img src="./img/fibo/3.png" alt="ig" style="display: block; margin: 0 auto;">
+<img src="./img/fibo/4.png" alt="ig" style="display: block; margin: 0 auto;">
 
 ---
 
@@ -241,6 +244,6 @@ Normalmente el precio reaccionará en la zona entre **0.5** y **0.618** en el re
 - En **Análisis Técnico** siempre hablamos de **estadística** y **probabilidad**, no es una ciencia exacta.
 - Otro nivel importante a vigilar es el **0.382**, donde en ocasiones las correcciones también se pueden extender hasta esa zona.
 
-<img src="./img/fibo/3.png" alt="ig" style="display: block; margin: 0 auto;">
+<img src="./img/fibo/5.png" alt="ig" style="display: block; margin: 0 auto;">
 
 ---
