@@ -1,5 +1,26 @@
 <img src="./banner.jpg" alt="ig" style="display: block; margin: 0 auto;">
 
+# 10usdt x 10.000usdt
+
+## 🕒 Apertura de Mercado
+
+    - Open Drive: Movimiento claro y confiable.  
+    - Open Test Drive: Confirmación necesaria.  
+    - Open Rejection Reverse: Rechazo y reversión.  
+    - Open Auction: Establecimiento de precios en subasta.
+    
+## 📈 Flujos de Dinero y Altseason
+    
+    - **Fase 1: Bitcoin**
+    - **Fase 2: Ethereum**
+    - **Fase 3: Grandes Capitalizaciones**
+    - **Fase 4: Altseason**
+
+### 🛡️ Protección en Caídas del Mercado
+
+## 🧩 Partes del Portafolio
+
+
 ---
 
 ## 🕒 Apertura de Mercado
@@ -13,6 +34,11 @@
 
 ## 📈 Flujos de Dinero y Altseason
 
+- **Fase 1: Bitcoin**
+- **Fase 2: Ethereum**
+- **Fase 3: Grandes Capitalizaciones**
+- **Fase 4: Altseason**
+  
 1️⃣ **Fase 1: Bitcoin**
 
        💰 El flujo de dinero entra en Bitcoin, causando aumentos en su precio.  
