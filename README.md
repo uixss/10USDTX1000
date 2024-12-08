@@ -9,6 +9,8 @@
     🔁 Open Rejection Reverse: Rechazo y reversión.
     🏛 Open Auction: Establecimiento de precios en subasta.
 
+---
+
 ## 📈 Flujos de Dinero y Altseason
 
 <img src="./img/ciclos/1.jpg" alt="ciclos">
@@ -33,6 +35,8 @@
       📈 Las grandes capitalizaciones alcanzan picos parabolicos.
       🤑 Las altcoins de todas las capitalizaciones (grandes, medianas y pequeñas) tienen aumentos masivos.
       💬 Se genera una euforia generalizada con memes y criptomonedas menos fundamentales.
+
+---
 
   ## 🧩 Partes del Portafolio
   
