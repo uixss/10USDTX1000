@@ -20,8 +20,6 @@
 - 🤑 Las altcoins de todas las capitalizaciones (grandes, medianas y pequeñas) tienen aumentos masivos.
 - 💬 Se genera una euforia generalizada con memes y criptomonedas menos fundamentales.
 
-## ⚙️ Tecnologías Utilizadas
-- 📊 Análisis de flujos de dinero en el mercado.
-- 💻 Herramientas para analizar criptomonedas y altcoins.
+---
   
 <img src="./img/ciclos/1.jpg" alt="ciclos">
