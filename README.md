@@ -41,13 +41,6 @@
 
 ## 📈 Flujos de Dinero y Altseason
 
-    - Fase 1 Bitcoin**
-    - Fase 2 Ethereum**
-    - Fase 3 Grandes Capitalizaciones**
-    - Fase 4 Altseason**
-
-<img src="./img/ciclos/1.jpg" alt="ciclos" width="500" align="center">
-
 
 1️⃣ **Fase 1: Bitcoin**
 
@@ -68,6 +61,10 @@
        📈 Las grandes capitalizaciones alcanzan picos parabólicos.  
        🤑 Las altcoins de todas las capitalizaciones (grandes, medianas y pequeñas) tienen aumentos masivos.  
        💬 Se genera una euforia generalizada con memes y criptomonedas menos fundamentales.
+
+
+<img src="./img/ciclos/1.jpg" alt="ciclos" width="500" align="center">
+
 
 ---
 
