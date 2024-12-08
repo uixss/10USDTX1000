@@ -38,16 +38,20 @@ Para finalmente desarrollar un Snipper dinamico abusando de cada aspecto posible
     
 ### 📆 Determinar la tendencia dia a dia
 
-    - Traiding View
     - Mempool
     - Coinglass
          - Ratio de Posiciones Largas y Cortas 
         - Mapa de Liquidaciones
             - para que sirve?
-        
+
+    - Analisis Tecnico   
+    - Traiding View
+        - Indicadores Personalizados
     - Analizar BTC en temporalidad de 1DIA
         - Fibbonacci
-        - Indicadores Personalizados
+            - Extensiones de Fibonacci para Zonas de Venta
+            - Retrocesos de Fibonacci para Zonas de Compra
+        
 
 ---
 
