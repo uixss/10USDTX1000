@@ -84,12 +84,12 @@ A continuación, se presentan las imágenes representativas de los patrones de a
 
 <table>
   <tr>
-    <td><img src="./img/apertura/2.jpg" alt="Open Drive" width="200"></td>
-    <td><img src="./img/apertura/3.jpg" alt="Open Test Drive" width="200"></td>
+    <td><img src="./img/apertura/2.png" alt="Open Drive" width="200"></td>
+    <td><img src="./img/apertura/3.png" alt="Open Test Drive" width="200"></td>
   </tr>
   <tr>
-    <td><img src="./img/apertura/4.jpg" alt="Open Rejection Reverse" width="200"></td>
-    <td><img src="./img/apertura/5.jpg" alt="Open Auction" width="200"></td>
+    <td><img src="./img/apertura/4.png" alt="Open Rejection Reverse" width="200"></td>
+    <td><img src="./img/apertura/5.png" alt="Open Auction" width="200"></td>
   </tr>
 </table>
 
