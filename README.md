@@ -52,7 +52,13 @@ Para finalmente desarrollar un Snipper dinamico abusando de cada aspecto posible
             - Extensiones de Fibonacci para Zonas de Venta
             - Retrocesos de Fibonacci para Zonas de Compra
         
+### 🔎 Low Caps en Binance
+    - ¿Cómo las encuentro ANTES de que pase?
+    - Coinmarketcap 
+    - Coingecko 
+    - Narrativas
 
+### 👁‍🗨 Trackear Ballenas
 ---
 
 <img src="./banner.jpg" alt="ig" style="display: block; margin: 0 auto;">
