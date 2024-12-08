@@ -50,9 +50,9 @@
 
 ## 🔁 Rotación de Capital
 
-### 🌪️ Fases del Mercado
-
 El dinero se mueve entre estas fases dependiendo de las condiciones del mercado. La rotación de capital es esencial para optimizar el portafolio:
+
+### 🌪️ Fases del Mercado
     
 1️⃣ **Fase 1 - Bitcoin Fuerte**:  
 
