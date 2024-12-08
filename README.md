@@ -13,7 +13,7 @@
 
 ## 📈 Flujos de Dinero y Altseason
 
-<img src="./img/ciclos/1.jpg" alt="ciclos" width="500">
+<img src="./img/ciclos/1.jpg" alt="ciclos" width="500" align="center">
 
 
 
