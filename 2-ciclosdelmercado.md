@@ -24,4 +24,4 @@
 - 📊 Análisis de flujos de dinero en el mercado.
 - 💻 Herramientas para analizar criptomonedas y altcoins.
   
-<img src="./img/clicos/1.jpg" alt="ciclos">
+<img src="./img/ciclos/1.jpg" alt="ciclos">
