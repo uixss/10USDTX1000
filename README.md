@@ -1,6 +1,9 @@
 
-#  💸 10usdt x 10.000usdt 💸
-<img src="./banner.jpg" alt="ig" style="display: block; margin: 0 auto;">
+#  💸 10usdt x 10.000usdt 💸 Memecoins Snipper
+
+Conceptos basicos y fundamentales de Bitcoin para entender el ecosistema y finalmente desarrollar un Snipper dinamico abusando de cada aspecto posible
+
+<img src="./ext/33.jpg" alt="ig" style="display: block; margin: 0 auto;">
 
 ---
 
@@ -169,6 +172,8 @@ Diferentes categorías, cada una con un perfil de riesgo y un enfoque específic
 
 Coinglass es una plataforma avanzada de análisis de datos para criptomonedas, que proporciona herramientas clave para traders e inversores. Estas herramientas te permiten monitorear la actividad del mercado de futuros, analizar el sentimiento del mercado y comprender las dinámicas de liquidación de posiciones. Entre sus herramientas más útiles se encuentran el **Liquidation Heat Map** y el **Long/Short Ratio**.
 
+<img src="./ext/coinglass.png" alt="ig" style="display: block; margin: 0 auto;">
+
 ## 🛠️ Liquidation Heat Map (Mapa de Liquidaciones)
 
 - 🔴 **Áreas rojas**
@@ -177,6 +182,8 @@ Coinglass es una plataforma avanzada de análisis de datos para criptomonedas, q
 - 📊 **Visualización interactiva**
   
 **Enlace:** [Liquidation Heat Map en Coinglass](https://www.coinglass.com/es/pro/futures/LiquidationHeatMap)
+
+<img src="./ext/mapa.png" alt="ig" style="display: block; margin: 0 auto;">
 
 ---
 
@@ -189,4 +196,5 @@ Coinglass es una plataforma avanzada de análisis de datos para criptomonedas, q
 
 **Enlace:** [Long/Short Ratio en Coinglass](https://www.coinglass.com/es/LongShortRatio)
 
+<img src="./ext/liquides.png" alt="ig" style="display: block; margin: 0 auto;">
 ---
