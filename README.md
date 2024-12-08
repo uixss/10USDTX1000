@@ -12,9 +12,9 @@
 ---
 
 ## 📈 Flujos de Dinero y Altseason
-
+<div style="text-align: center;">
 <img src="./img/ciclos/1.jpg" alt="ciclos" width="500" align="center">
-
+</div>
 
 
   1️⃣ Fase 1: Bitcoin
