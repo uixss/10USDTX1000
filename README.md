@@ -33,6 +33,16 @@
     
 ### 📆 Determinar la tendencia dia a dia
 
+    - Traiding View
+    - Mempool
+    - Coinglass
+    - Mapa de Liquidaciones
+        - para que sirve?
+    - Ratio de Posiciones Largas y Cortas 
+    - Analizar BTC en temporalidad de 1 DIA
+        - Fibbonacci
+        - Indicadores Personalizados
+
 ---
 
 <img src="./banner.jpg" alt="ig" style="display: block; margin: 0 auto;">
