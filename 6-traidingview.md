@@ -7,7 +7,7 @@
 - **Alertas personalizadas**.
 - **Gráficos interactivos**.
 
-Puedes acceder a **TradingView** [aquí](https://www.tradingview.com).
+**TradingView** [aquí](https://www.tradingview.com).
 
 ---
 
