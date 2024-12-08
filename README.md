@@ -1,1 +1,1 @@
-[Banner](banner.jpg)
+[Banner](./banner.jpg)
