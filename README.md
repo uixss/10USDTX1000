@@ -160,6 +160,19 @@ Diferentes categorías, cada una con un perfil de riesgo y un enfoque específic
 
 ---
 
+## 🌐 **¿Qué es TradingView?**
+
+Es una plataforma de gráficos y análisis que te permite visualizar datos en tiempo real de una amplia variedad de activos financieros, incluyendo criptomonedas, acciones, futuros y más. Además, ofrece herramientas para realizar análisis técnico avanzado, como:
+
+- **Indicadores personalizados**.
+- **Herramientas de dibujo** (líneas de tendencia, soportes, resistencias, etc.).
+- **Alertas personalizadas**.
+- **Gráficos interactivos**.
+
+**TradingView** [aquí](https://www.tradingview.com).
+
+---
+
 ## 💻 Mempool.space - Visualiza la Memoria de la Red Bitcoin
 
 **Mempool.space** es una herramienta visual interactiva para monitorear el estado de la red de Bitcoin en tiempo real. Muestra cómo las transacciones pendientes (mempool) se acumulan y cómo los mineros las procesan en los bloques de la cadena. 
