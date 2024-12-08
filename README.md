@@ -7,6 +7,15 @@ Para finalmente desarrollar un Snipper dinámico abusando de cada aspecto posibl
 
 ---
 
+### 🛡️ Protección en Caídas del Mercado
+
+La clave es proteger el capital en momentos de caída:
+
+- **BTC** suele caer menos que las **altcoins**, por lo que, al rotar ganancias de las altcoins hacia BTC, se reduce el riesgo durante las caídas.
+- **Liquidez** actúa como un refugio seguro durante tiempos de alta volatilidad.
+
+---
+
 ## 🕒 Apertura de Mercado
 - 🚀 **Open Drive**: Movimiento claro y confiable.  
 - 🔄 **Open Test Drive**: Confirmación necesaria.  
