@@ -24,9 +24,14 @@
     - Fase 4 - Altseason
 
 ### 🛡️ Protección en Caídas del Mercado
+
     - La clave es proteger el capital 
+    
 ### 🧩 Partes del Portafolio
+
     - Definir un pefil segun la fase para distintas categorias de riesgo.
+    
+### 📆 Analisis Diario
 
 ---
 
