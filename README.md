@@ -4,7 +4,7 @@
 Conceptos basicos y fundamentales de Bitcoin para entender el ecosistema.
 Para finalmente desarrollar un Snipper dinamico abusando de cada aspecto posible
 
-<img src="./banner.jpg" alt="ig" style="width:450px; display: block; margin: 0 auto;">
+<img src="./banner.jpg" alt="ig" style="display: block; margin: 0 auto;">
 
 ---
 
