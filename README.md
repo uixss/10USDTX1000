@@ -36,10 +36,11 @@
     - Traiding View
     - Mempool
     - Coinglass
-    - Mapa de Liquidaciones
-        - para que sirve?
-    - Ratio de Posiciones Largas y Cortas 
-    - Analizar BTC en temporalidad de 1 DIA
+         - Ratio de Posiciones Largas y Cortas 
+        - Mapa de Liquidaciones
+            - para que sirve?
+        
+    - Analizar BTC en temporalidad de 1DIA
         - Fibbonacci
         - Indicadores Personalizados
 
