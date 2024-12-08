@@ -10,6 +10,10 @@
     🏛 Open Auction: Establecimiento de precios en subasta.
 
 ## 📈 Flujos de Dinero y Altseason
+
+<img src="./img/ciclos/1.jpg" alt="ciclos">
+
+
   1️⃣ Fase 1: Bitcoin
   
       💰 El flujo de dinero entra en Bitcoin, causando aumentos en su precio.
