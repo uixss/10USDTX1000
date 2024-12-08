@@ -73,6 +73,7 @@ Cuando el mercado se estabiliza y BTC toca suelo, se reinvierte en **altcoins** 
 <img src="./img/porta/2.jpg" alt="ciclos" width="500">
 <img src="./img/porta/3.jpg" alt="ciclos" width="500">
 <img src="./img/porta/4.jpg" alt="ciclos" width="500">
+
 ---
 
 ## 📈 Flujos de Dinero y Altseason
