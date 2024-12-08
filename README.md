@@ -5,17 +5,19 @@
 
 ### 🕒 Apertura de Mercado
 
-    - Open Drive: Movimiento claro y confiable.  
-    - Open Test Drive: Confirmación necesaria.  
-    - Open Rejection Reverse: Rechazo y reversión.  
-    - Open Auction: Establecimiento de precios en subasta.
+    - Open Drive - Movimiento claro y confiable.  
+    - Open Test Drive - Confirmación necesaria.  
+    - Open Rejection Reverse - Rechazo y reversión.  
+    - Open Auction - Establecimiento de precios en subasta.
+
+### 🔁 Rotación de Capital
     
 ### 📈 Flujos de Dinero y Altseason
     
-    - Fase 1: Bitcoin
-    - Fase 2: Ethereum
-    - Fase 3: Grandes Capitalizaciones
-    - Fase 4: Altseason
+    - Fase 1 - Bitcoin
+    - Fase 2 - Ethereum
+    - Fase 3 - Grandes Capitalizaciones
+    - Fase 4 - Altseason
 
 ### 🛡️ Protección en Caídas del Mercado
     - La clave es proteger el capital 
@@ -39,11 +41,14 @@
 
 ## 📈 Flujos de Dinero y Altseason
 
-- **Fase 1: Bitcoin**
-- **Fase 2: Ethereum**
-- **Fase 3: Grandes Capitalizaciones**
-- **Fase 4: Altseason**
-  
+    - Fase 1 Bitcoin**
+    - Fase 2 Ethereum**
+    - Fase 3 Grandes Capitalizaciones**
+    - Fase 4 Altseason**
+
+<img src="./img/ciclos/1.jpg" alt="ciclos" width="500" align="center">
+
+
 1️⃣ **Fase 1: Bitcoin**
 
        💰 El flujo de dinero entra en Bitcoin, causando aumentos en su precio.  
@@ -63,11 +68,6 @@
        📈 Las grandes capitalizaciones alcanzan picos parabólicos.  
        🤑 Las altcoins de todas las capitalizaciones (grandes, medianas y pequeñas) tienen aumentos masivos.  
        💬 Se genera una euforia generalizada con memes y criptomonedas menos fundamentales.
-
-
-<div style="text-align: center;">
-<img src="./img/ciclos/1.jpg" alt="ciclos" width="500" align="center">
-</div>
 
 ---
 
