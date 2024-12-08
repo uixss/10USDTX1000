@@ -95,6 +95,8 @@ El dinero se mueve entre estas fases dependiendo de las condiciones del mercado.
        Cuando el mercado se estabiliza y BTC toca suelo, se reinvierte en **altcoins** en el siguiente orden:  
        - **BigCaps** ➡️ **MidCaps** ➡️ **LowCaps** ➡️ **Shitcoins**
 
+---
+
 ### 🛡️ Protección en Caídas del Mercado
 
 La clave es proteger el capital en momentos de caída:
