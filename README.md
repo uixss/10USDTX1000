@@ -1,9 +1,10 @@
 
 #  💸 10usdt x 10.000usdt 💸 Memecoins Snipper
 
-Conceptos basicos y fundamentales de Bitcoin para entender el ecosistema y finalmente desarrollar un Snipper dinamico abusando de cada aspecto posible
+Conceptos basicos y fundamentales de Bitcoin para entender el ecosistema.
+Para finalmente desarrollar un Snipper dinamico abusando de cada aspecto posible
 
-<img src="./img/ext/33.jpg" alt="ig" style="width:450px; display: block; margin: 0 auto;">
+<img src="./banner.jpg" alt="ig" style="width:450px; display: block; margin: 0 auto;">
 
 ---
 
