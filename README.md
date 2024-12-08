@@ -11,6 +11,10 @@
     - Open Auction - Establecimiento de precios en subasta.
 
 ### 🔁 Rotación de Capital
+    - Bitcoin Fuerte
+    - Altcoins Fuerte
+    - Corrección del Mercado
+    - Mercado en Recuperación
     
 ### 📈 Flujos de Dinero y Altseason
     
@@ -39,6 +43,34 @@
 
 ---
 
+## 🔁 Rotación de Capital
+
+### 🌪️ Fases del Mercado
+
+El dinero se mueve entre estas fases dependiendo de las condiciones del mercado. La rotación de capital es esencial para optimizar el portafolio:
+    
+1️⃣ **Fase 1 - Bitcoin Fuerte**:  
+       Si **Bitcoin** (BTC) está mostrando fuerza, se aumenta el porcentaje de capital en BTC.  
+       - **Acción**: Rotar ganancias de altcoins hacia BTC.
+       
+2️⃣ **Fase 2 - Altcoins Fuerte**:  
+       Si las **altcoins** están dominando, especialmente en el caso de **MidCaps** y **LowCaps**, se incrementan las posiciones en estas monedas.  
+       - **Acción**: Rotar ganancias de BTC hacia altcoins más pequeñas.
+
+3️⃣ **Fase 3 - Corrección del Mercado**:  
+       En momentos de corrección, BTC es generalmente más resistente que las altcoins.  
+       - **Acción**: Transferir parte de BTC a **Liquidez** y parte de las **altcoins** a BTC.
+
+4️⃣ **Fase 4 - Mercado en Recuperación**:  
+       Cuando el mercado se estabiliza y BTC toca suelo, se reinvierte en **altcoins** en el siguiente orden:  
+       - **BigCaps** ➡️ **MidCaps** ➡️ **LowCaps** ➡️ **Shitcoins**
+
+       
+<img src="./img/porta/2.jpg" alt="ciclos" width="500">
+<img src="./img/porta/3.jpg" alt="ciclos" width="500">
+<img src="./img/porta/4.jpg" alt="ciclos" width="500">
+---
+
 ## 📈 Flujos de Dinero y Altseason
 
 
@@ -64,37 +96,6 @@
 
 
 <img src="./img/ciclos/1.jpg" alt="ciclos" width="500" align="center">
-
-
----
-
-## 🔁 Rotación de Capital
-
-### 🌪️ Fases del Mercado
-
-El dinero se mueve entre estas fases dependiendo de las condiciones del mercado. La rotación de capital es esencial para optimizar el portafolio:
-    
-1️⃣ **Fase 1 - Bitcoin Fuerte**:  
-       Si **Bitcoin** (BTC) está mostrando fuerza, se aumenta el porcentaje de capital en BTC.  
-       - **Acción**: Rotar ganancias de altcoins hacia BTC.
-   
-   <img src="./img/porta/2.jpg" alt="ciclos" width="500">
-  
-2️⃣ **Fase 2 - Altcoins Fuerte**:  
-       Si las **altcoins** están dominando, especialmente en el caso de **MidCaps** y **LowCaps**, se incrementan las posiciones en estas monedas.  
-       - **Acción**: Rotar ganancias de BTC hacia altcoins más pequeñas.
-
-   <img src="./img/porta/3.jpg" alt="ciclos" width="500">
-
-3️⃣ **Fase 3 - Corrección del Mercado**:  
-       En momentos de corrección, BTC es generalmente más resistente que las altcoins.  
-       - **Acción**: Transferir parte de BTC a **Liquidez** y parte de las **altcoins** a BTC.
-
-4️⃣ **Fase 4 - Mercado en Recuperación**:  
-       Cuando el mercado se estabiliza y BTC toca suelo, se reinvierte en **altcoins** en el siguiente orden:  
-       - **BigCaps** ➡️ **MidCaps** ➡️ **LowCaps** ➡️ **Shitcoins**
-
-   <img src="./img/porta/4.jpg" alt="ciclos" width="500">
 
 ---
 
