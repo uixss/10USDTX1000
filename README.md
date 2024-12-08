@@ -73,3 +73,9 @@ El portafolio se divide en diferentes categorías, cada una con un perfil de rie
   
   - **BTC** suele caer menos que las **altcoins**, por lo que, al rotar ganancias de las altcoins hacia BTC, se reduce el riesgo durante las caídas.
   - **Liquidez** actúa como un refugio seguro durante tiempos de alta volatilidad.
+
+
+---
+
+
+
