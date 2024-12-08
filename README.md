@@ -54,6 +54,7 @@ Para finalmente desarrollar un Snipper dinamico abusando de cada aspecto posible
         
 ### 🔎 Low Caps en Binance
     - ¿Cómo las encuentro ANTES de que pase?
+    - Binance Labs como VC
     - Coinmarketcap 
     - Coingecko 
     - Narrativas
