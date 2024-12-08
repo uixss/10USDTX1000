@@ -1,6 +1,6 @@
 
 #  💸 10usdt x 10.000usdt 💸
-
+<img src="./banner.jpg" alt="ig" style="display: block; margin: 0 auto;">
 ---
 
 ### 🕒 Apertura de Mercado
