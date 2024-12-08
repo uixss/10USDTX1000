@@ -198,4 +198,49 @@ Coinglass es una plataforma avanzada de análisis de datos para criptomonedas, q
 **Enlace:** [Long/Short Ratio en Coinglass](https://www.coinglass.com/es/LongShortRatio)
 
 <img src="./img/ext/liquides.png" alt="ig" style="display: block; margin: 0 auto;">
+
+---
+
+# 📚 $BTC: Detectar Zonas de Venta y Compra con Fibonacci
+
+Cómo identificar zonas clave para vender y re-comprar Bitcoin durante una tendencia alcista, utilizando las herramientas de **Fibonacci**. Esto te permitirá mejorar tu análisis técnico de forma sencilla.
+
+---
+
+## 1️⃣ **Extensiones de Fibonacci para Zonas de Venta** 
+
+Para detectar zonas de venta en una tendencia alcista:
+
+- Traza el **Fibonacci** desde el máximo hasta el mínimo de la corrección (línea de puntos).
+- Configura el nivel **1.618** de Fibonacci en los ajustes.
+
+**Ejemplos:**
+- **Zona actual** (temporalidad baja).
+- **Rango previo a la ruptura**.
+
+<img src="./img/fibo/1.png" alt="ig" style="display: block; margin: 0 auto;">
+
+---
+
+## 2️⃣ **Retrocesos de Fibonacci para Zonas de Compra**
+
+Para detectar zonas de compra durante una corrección alcista:
+
+- Usa el mismo rango de Fibonacci que en el anterior post.
+- Configura los niveles **0.618** y **0.5** de Fibonacci.
+  
+**Nota:**  
+Normalmente el precio reaccionará en la zona entre **0.5** y **0.618** en el retroceso durante una tendencia alcista.
+
+<img src="./img/fibo/2.png" alt="ig" style="display: block; margin: 0 auto;">
+
+---
+
+## 🔷 **Recordatorio Importante**
+
+- En **Análisis Técnico** siempre hablamos de **estadística** y **probabilidad**, no es una ciencia exacta.
+- Otro nivel importante a vigilar es el **0.382**, donde en ocasiones las correcciones también se pueden extender hasta esa zona.
+
+<img src="./img/fibo/3.png" alt="ig" style="display: block; margin: 0 auto;">
+
 ---
