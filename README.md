@@ -12,35 +12,37 @@
 ---
 
 ## 📈 Flujos de Dinero y Altseason
-<div style="text-align: center;">
-<img src="./img/ciclos/1.jpg" alt="ciclos" width="500" align="center">
-</div>
 
 1️⃣ **Fase 1: Bitcoin**
 
-   💰 El flujo de dinero entra en Bitcoin, causando aumentos en su precio.  
-   💥 Ethereum lucha por seguir el ritmo de Bitcoin.
+       💰 El flujo de dinero entra en Bitcoin, causando aumentos en su precio.  
+       💥 Ethereum lucha por seguir el ritmo de Bitcoin.
 
 2️⃣ **Fase 2: Ethereum**
 
-   🚀 Ethereum comienza a superar a Bitcoin, lo que genera especulación sobre el "flippening".
+       🚀 Ethereum comienza a superar a Bitcoin, lo que genera especulación sobre el "flippening".
 
 3️⃣ **Fase 3: Grandes Capitalizaciones**
 
-   💸 El dinero fluye hacia altcoins de gran capitalización como BNB, ADA y SOL.  
-   🔥 Las altcoins con fundamentos sólidos experimentan aumentos significativos.
+       💸 El dinero fluye hacia altcoins de gran capitalización como BNB, ADA y SOL.  
+       🔥 Las altcoins con fundamentos sólidos experimentan aumentos significativos.
 
 4️⃣ **Fase 4: Altseason**
 
-   📈 Las grandes capitalizaciones alcanzan picos parabólicos.  
-   🤑 Las altcoins de todas las capitalizaciones (grandes, medianas y pequeñas) tienen aumentos masivos.  
-   💬 Se genera una euforia generalizada con memes y criptomonedas menos fundamentales.
+       📈 Las grandes capitalizaciones alcanzan picos parabólicos.  
+       🤑 Las altcoins de todas las capitalizaciones (grandes, medianas y pequeñas) tienen aumentos masivos.  
+       💬 Se genera una euforia generalizada con memes y criptomonedas menos fundamentales.
+
+
+<div style="text-align: center;">
+<img src="./img/ciclos/1.jpg" alt="ciclos" width="500" align="center">
+</div>
 
 ---
 
 ## 🧩 Partes del Portafolio
 
-El portafolio se divide en diferentes categorías, cada una con un perfil de riesgo y un enfoque específico según la fase del mercado:
+Diferentes categorías, cada una con un perfil de riesgo y un enfoque específico según la fase del mercado:
 
 | **Categoría**   | **Descripción**                                                                 | **Riesgo**    | **Momento de Inversión** |
 |-----------------|---------------------------------------------------------------------------------|---------------|--------------------------|
@@ -64,34 +66,34 @@ El portafolio se divide en diferentes categorías, cada una con un perfil de rie
 ### 🌪️ Fases del Mercado
 
 El dinero se mueve entre estas fases dependiendo de las condiciones del mercado. La rotación de capital es esencial para optimizar el portafolio:
-
-1. **Fase 1 - Bitcoin Fuerte**:  
-   Si **Bitcoin** (BTC) está mostrando fuerza, se aumenta el porcentaje de capital en BTC.  
-   - **Acción**: Rotar ganancias de altcoins hacia BTC.
+    
+    1. **Fase 1 - Bitcoin Fuerte**:  
+       Si **Bitcoin** (BTC) está mostrando fuerza, se aumenta el porcentaje de capital en BTC.  
+       - **Acción**: Rotar ganancias de altcoins hacia BTC.
    
    <div style="text-align: center;">
    <img src="./img/porta/2.jpg" alt="ciclos" width="500">
    </div>
 
-2. **Fase 2 - Altcoins Fuerte**:  
-   Si las **altcoins** están dominando, especialmente en el caso de **MidCaps** y **LowCaps**, se incrementan las posiciones en estas monedas.  
-   - **Acción**: Rotar ganancias de BTC hacia altcoins más pequeñas.
+    2. **Fase 2 - Altcoins Fuerte**:  
+       Si las **altcoins** están dominando, especialmente en el caso de **MidCaps** y **LowCaps**, se incrementan las posiciones en estas monedas.  
+       - **Acción**: Rotar ganancias de BTC hacia altcoins más pequeñas.
 
    <div style="text-align: center;">
    <img src="./img/porta/3.jpg" alt="ciclos" width="500">
    </div>
 
-3. **Fase 3 - Corrección del Mercado**:  
-   En momentos de corrección, BTC es generalmente más resistente que las altcoins.  
-   - **Acción**: Transferir parte de BTC a **Liquidez** y parte de las **altcoins** a BTC.
+    3. **Fase 3 - Corrección del Mercado**:  
+       En momentos de corrección, BTC es generalmente más resistente que las altcoins.  
+       - **Acción**: Transferir parte de BTC a **Liquidez** y parte de las **altcoins** a BTC.
 
    <div style="text-align: center;">
    <img src="./img/porta/4.jpg" alt="ciclos" width="500">
    </div>
 
-4. **Fase 4 - Mercado en Recuperación**:  
-   Cuando el mercado se estabiliza y BTC toca suelo, se reinvierte en **altcoins** en el siguiente orden:  
-   - **BigCaps** ➡️ **MidCaps** ➡️ **LowCaps** ➡️ **Shitcoins**
+    4. **Fase 4 - Mercado en Recuperación**:  
+       Cuando el mercado se estabiliza y BTC toca suelo, se reinvierte en **altcoins** en el siguiente orden:  
+       - **BigCaps** ➡️ **MidCaps** ➡️ **LowCaps** ➡️ **Shitcoins**
 
 ### 🛡️ Protección en Caídas del Mercado
 
