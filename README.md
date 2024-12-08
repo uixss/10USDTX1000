@@ -1,5 +1,7 @@
 
-# 10usdt x 10.000usdt
+#  💸 10usdt x 10.000usdt 💸
+
+---
 
 ### 🕒 Apertura de Mercado
 
@@ -16,9 +18,11 @@
     - **Fase 4: Altseason**
 
 ### 🛡️ Protección en Caídas del Mercado
-
+    - La clave es proteger el capital 
 ### 🧩 Partes del Portafolio
+    - Definir un pefil segun la fase para distintas categorias de riesgo.
 
+---
 
 <img src="./banner.jpg" alt="ig" style="display: block; margin: 0 auto;">
 
