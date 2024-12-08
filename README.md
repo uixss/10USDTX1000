@@ -56,23 +56,23 @@ El dinero se mueve entre estas fases dependiendo de las condiciones del mercado.
     
 1️⃣ **Fase 1 - Bitcoin Fuerte**:  
 
-Si **Bitcoin** (BTC) está mostrando fuerza, se aumenta el porcentaje de capital en BTC.  
-       - **Acción**: Rotar ganancias de altcoins hacia BTC.
+    Si Bitcoin (BTC) está mostrando fuerza, se aumenta el porcentaje de capital en BTC.  
+           - Acción: Rotar ganancias de altcoins hacia BTC.
        
 2️⃣ **Fase 2 - Altcoins Fuerte**:  
 
-Si las **altcoins** están dominando, especialmente en el caso de **MidCaps** y **LowCaps**, se incrementan las posiciones en estas monedas.  
-       - **Acción**: Rotar ganancias de BTC hacia altcoins más pequeñas.
+    Si las altcoins están dominando, especialmente en el caso de MidCaps y LowCaps, se incrementan las posiciones en estas monedas.  
+           - Acción: Rotar ganancias de BTC hacia altcoins más pequeñas.
 
 3️⃣ **Fase 3 - Corrección del Mercado**:  
 
-En momentos de corrección, BTC es generalmente más resistente que las altcoins.  
-       - **Acción**: Transferir parte de BTC a **Liquidez** y parte de las **altcoins** a BTC.
+    En momentos de corrección, BTC es generalmente más resistente que las altcoins.  
+           - Acción: Transferir parte de BTC a Liquidez y parte de las altcoins a BTC.
 
 4️⃣ **Fase 4 - Mercado en Recuperación**:  
-
-Cuando el mercado se estabiliza y BTC toca suelo, se reinvierte en **altcoins** en el siguiente orden:  
-       - **BigCaps** ➡️ **MidCaps** ➡️ **LowCaps** ➡️ **Shitcoins**
+    
+    Cuando el mercado se estabiliza y BTC toca suelo, se reinvierte en altcoins en el siguiente orden:  
+           - BigCaps ➡️ MidCaps ➡️ LowCaps ➡️ Shitcoins
 
        
 <img src="./img/porta/2.jpg" alt="ciclos" width="500">
