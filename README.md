@@ -48,7 +48,7 @@ El análisis de la **apertura** debe enfocarse en detectar el tipo de patrón qu
 - **Características:**
   - Los **participantes influyentes** toman la iniciativa y empujan el mercado en una dirección clara.
   - Existen **pocas probabilidades** de que el mercado revierta y vuelva a los precios de apertura.
-  
+  <img src="./img/apertura/2.png" alt="Open Drive" >
 ---
 
 ### 2. Open Test Drive
@@ -57,7 +57,7 @@ El análisis de la **apertura** debe enfocarse en detectar el tipo de patrón qu
 - **Características:**
   - Existe una fuerte convicción inicial, pero los precios deben probarse en un nivel específico antes de continuar con la iniciativa.
   - La dinámica inicial es sólida, pero los traders buscan **confirmación** para continuar.
-
+<img src="./img/apertura/3.png" alt="Open Test Drive">
 ---
 
 ### 3. Open Rejection Reverse
@@ -66,7 +66,7 @@ El análisis de la **apertura** debe enfocarse en detectar el tipo de patrón qu
 - **Características:**
   - El mercado se mueve en una dirección, pero rápidamente **revierte** su tendencia a medida que los traders reevalúan la situación.
   - Los **participantes influyentes** entran en el mercado para invertir el movimiento y cambiar la dirección.
-
+<img src="./img/apertura/4.png" alt="Open Rejection Reverse" >
 ---
 
 ### 4. Open Auction
@@ -75,24 +75,7 @@ El análisis de la **apertura** debe enfocarse en detectar el tipo de patrón qu
 - **Características:**
   - La acción del precio es más **lateral** al principio, y los traders evalúan el precio antes de tomar decisiones.
   - Este patrón es menos decisivo en comparación con otros, pero puede proporcionar valiosa información sobre el nivel de equilibrio entre compradores y vendedores.
-
----
-
-## 🖼 Imágenes de los Patrones de Apertura
-
-A continuación, se presentan las imágenes representativas de los patrones de apertura en el Market Profile:
-
-<table>
-  <tr>
-    <td><img src="./img/apertura/2.png" alt="Open Drive" width="200"></td>
-    <td><img src="./img/apertura/3.png" alt="Open Test Drive" width="200"></td>
-  </tr>
-  <tr>
-    <td><img src="./img/apertura/4.png" alt="Open Rejection Reverse" width="200"></td>
-    <td><img src="./img/apertura/5.png" alt="Open Auction" width="200"></td>
-  </tr>
-</table>
-
+<img src="./img/apertura/5.png" alt="Open Auction" >
 ---
 
 ## 🎯 ¿Cómo analizar estos patrones?
