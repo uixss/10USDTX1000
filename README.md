@@ -62,11 +62,11 @@ El dinero se mueve entre estas fases dependiendo de las condiciones del mercado.
        En momentos de corrección, BTC es generalmente más resistente que las altcoins.  
        - **Acción**: Transferir parte de BTC a **Liquidez** y parte de las **altcoins** a BTC.
 
-   <img src="./img/porta/4.jpg" alt="ciclos" width="500">
-
 4️⃣ **Fase 4 - Mercado en Recuperación**:  
        Cuando el mercado se estabiliza y BTC toca suelo, se reinvierte en **altcoins** en el siguiente orden:  
        - **BigCaps** ➡️ **MidCaps** ➡️ **LowCaps** ➡️ **Shitcoins**
+
+   <img src="./img/porta/4.jpg" alt="ciclos" width="500">
 
 ---
 
