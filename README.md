@@ -31,7 +31,7 @@
 
     - Definir un pefil segun la fase para distintas categorias de riesgo.
     
-### 📆 Analisis Diario
+### 📆 Determinar la tendencia dia a dia
 
 ---
 
