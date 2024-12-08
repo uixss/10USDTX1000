@@ -1,1 +1,2 @@
-[Banner](./banner.jpg)
+
+ <img src="./banner.jpg" alt="ig">
