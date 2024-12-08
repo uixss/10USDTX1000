@@ -40,23 +40,6 @@
 
 ---
 
-## 🧩 Partes del Portafolio
-
-Diferentes categorías, cada una con un perfil de riesgo y un enfoque específico según la fase del mercado:
-
-| **Categoría**   | **Descripción**                                                                 | **Riesgo**    | **Momento de Inversión** |
-|-----------------|---------------------------------------------------------------------------------|---------------|--------------------------|
-| 💰 **Liquidez** | Capital en efectivo o stablecoins. Permite moverse rápidamente en el mercado.   | Bajo          | Siempre                  |
-| 🟩 **BTC**      | Bitcoin, el activo más seguro y estable en el ecosistema cripto.                | Bajo          | En momentos de corrección o estabilidad |
-| 🟦 **BigCaps**  | Criptomonedas de gran capitalización (Ethereum, Binance Coin).                  | Medio         | Cuando el mercado está relativamente estable |
-| 🟨 **MidCaps**  | Criptomonedas con capitalización media. Potencial de alto crecimiento.         | Alto          | Cuando el mercado muestra señales de crecimiento |
-| 🟪 **LowCaps**  | Criptomonedas de baja capitalización. Mayor volatilidad, más riesgo.            | Muy Alto      | En fases especulativas o de fuerte crecimiento |
-| 🛑 **Shitcoins**| Criptomonedas sin valor fundamental. Especulativas y muy volátiles.            | Muy Alto      | Oportunidades a corto plazo |
-| 🛠️ **Preventas**| Participación en preventas de tokens. Potencial de gran retorno.               | Alto          | Durante la fase de lanzamiento de proyectos |
-| 🎨 **NFT**      | Tokens no fungibles, ideales para coleccionistas o arte digital.                | Alto          | Cuando hay tendencias en el mercado de arte digital |
-
----
-
 ## 🔁 Rotación de Capital
 
 <div style="text-align: center;">
@@ -103,5 +86,23 @@ La clave es proteger el capital en momentos de caída:
 
 - **BTC** suele caer menos que las **altcoins**, por lo que, al rotar ganancias de las altcoins hacia BTC, se reduce el riesgo durante las caídas.
 - **Liquidez** actúa como un refugio seguro durante tiempos de alta volatilidad.
+
+---
+
+## 🧩 Partes del Portafolio
+
+Diferentes categorías, cada una con un perfil de riesgo y un enfoque específico según la fase del mercado:
+
+| **Categoría**   | **Descripción**                                                                 | **Riesgo**    | **Momento de Inversión** |
+|-----------------|---------------------------------------------------------------------------------|---------------|--------------------------|
+| 💰 **Liquidez** | Capital en efectivo o stablecoins. Permite moverse rápidamente en el mercado.   | Bajo          | Siempre                  |
+| 🟩 **BTC**      | Bitcoin, el activo más seguro y estable en el ecosistema cripto.                | Bajo          | En momentos de corrección o estabilidad |
+| 🟦 **BigCaps**  | Criptomonedas de gran capitalización (Ethereum, Binance Coin).                  | Medio         | Cuando el mercado está relativamente estable |
+| 🟨 **MidCaps**  | Criptomonedas con capitalización media. Potencial de alto crecimiento.         | Alto          | Cuando el mercado muestra señales de crecimiento |
+| 🟪 **LowCaps**  | Criptomonedas de baja capitalización. Mayor volatilidad, más riesgo.            | Muy Alto      | En fases especulativas o de fuerte crecimiento |
+| 🛑 **Shitcoins**| Criptomonedas sin valor fundamental. Especulativas y muy volátiles.            | Muy Alto      | Oportunidades a corto plazo |
+| 🛠️ **Preventas**| Participación en preventas de tokens. Potencial de gran retorno.               | Alto          | Durante la fase de lanzamiento de proyectos |
+| 🎨 **NFT**      | Tokens no fungibles, ideales para coleccionistas o arte digital.                | Alto          | Cuando hay tendencias en el mercado de arte digital |
+
 
 ---
